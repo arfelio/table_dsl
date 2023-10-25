@@ -1,2 +1,2 @@
 # table_dsl
-test assignment
+The example of small DSL for creating HTML tables.
